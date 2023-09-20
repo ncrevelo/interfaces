@@ -100,6 +100,17 @@ export default function App() {
 </section>
       
 
+
+<section className="bg-white w-screen h-screen flex flex-col items-center  ">
+  <h2 className="  text-2xl font-bold text-start text-gray-700 pt-8 " >Mis Proyectos</h2>
+  <section className="flex  w-[800px] h-[400px] flex-col   overflow-hidden rounded-tr-none rounded-bl-none border-1  bg-gray-400 rounded-3xl  shadow-md mx-auto my-auto">
+  <h2 className="  text-2xl font-bold text-center text-black pt-8 " >Mi Portafolio</h2>
+  <section className="  text-2xl font-oswald px-8 text-black flex-col justify-center text-justify width: 100px height:auto word-wrap: break-word order-1 pt-10" style={{ maxHeight: '300px', overflowY: 'auto' }}>
+              <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              </p>
+              </section>
+  </section>
+</section>
       </main>
 
       {/* Pie de página (Footer) */}
