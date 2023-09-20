@@ -28,7 +28,7 @@ export default function App() {
           <section className="bg-white py-4 flex items-center justify-center h-screen">
             <section>
               <h2 className=" text-center text-3xl font-bold flex-col order-start" >Bienvenido</h2>
-              <h3 className=" flex flex-col order-2text-center justify-center font-oswald text-3xl">Soy Camilo Tello</h3>
+              <h3 className=" flex flex-col order-2text-center justify-center font-oswald text-3xl">Soy Nathalia Cabrera</h3>
               </section> 
           </section>
           <section className="bg-white"></section>
