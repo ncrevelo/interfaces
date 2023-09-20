@@ -81,6 +81,23 @@ export default function App() {
   </section>
       </section>
       </section>
+
+
+
+<section className="bg-gray-300 w-screen h-screen grid grid-rows-6">
+  <section className="row-span-2">
+    <h2 className=" text-left pl-[120px] text-5xl font-bold flex-col pt-5 order-start" >Mis Habilidades Son</h2>
+    <section className="  text-2xl font-oswald px-[80px] text-gray-700 flex-col justify-center text-justify width: 180px height: auto word-wrap: break-word order-1 pt-8" style={{ maxHeight: '200px', overflowY: 'auto' }}>
+      <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat .
+      </p>
+    </section>
+  </section>
+  <section className="row-span-4 grid grid-cols-3 items-center">
+    <section className="flex w-[350px] h-[400px] flex-col overflow-hidden border-1 bg-gray-500 rounded-2xl  shadow-md mx-auto"></section>
+    <section className="flex w-[350px] h-[400px] flex-col overflow-hidden border-1 bg-gray-500 rounded-2xl  shadow-md mx-auto"></section>
+    <section className="flex w-[350px] h-[400px] flex-col overflow-hidden border-1 bg-gray-500 rounded-2xl  shadow-md mx-auto"></section>
+  </section>
+</section>
       
 
       </main>
