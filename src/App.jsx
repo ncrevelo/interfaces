@@ -42,7 +42,7 @@ export default function App() {
 
         <section className="flex items-center  rounded-xl ">
 
-            <section className="flex w-[550px] h-[480px] flex-col overflow-hidden   border-1 bg-gray-500 rounded-3xl rounded-tr-none shadow-md mx-auto">
+            <section className="flex w-[560px] h-[480px] flex-col overflow-hidden   border-1 bg-gray-500 rounded-3xl rounded-tr-none shadow-md mx-auto">
             
             </section>
         </section>
