@@ -53,7 +53,7 @@ export default function App() {
 
             <h3 className=" flex flex-col order-2 text-center justify-center font-oswald text-3xl pt-end pb-3">About Us</h3>
               <h2 className=" text-center text-5xl font-bold flex-col order-start" >¡¡ Estoy encantada de que estes aquí !!</h2>
-              <section className="  text-2xl font-oswald px-8 text-gray-700 flex-col justify-center text-justify width: 100px height: auto word-wrap: break-word order-1 pt-10" style={{ maxHeight: '200px', overflowY: 'auto' }}>
+              <section className="  text-2xl font-oswald px-8 text-gary-700 flex-col justify-center text-justify width: 100px height: auto word-wrap: break-word order-1 pt-10" style={{ maxHeight: '200px', overflowY: 'auto' }}>
               <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
               </p>
               </section>
@@ -98,7 +98,7 @@ export default function App() {
 
 <section className="bg-gray-300 w-screen h-screen grid grid-rows-6">
   <section className="row-span-2">
-    <h2 className=" text-left pl-[120px] text-5xl font-bold flex-col pt-5 order-start" >Mis Habilidades Son</h2>
+    <h2 className=" text-left  pl-[120px] text-5xl font-bold flex-col pt-5 order-start" >Mis Habilidades Son</h2>
     <section className="  text-2xl font-oswald px-[80px] text-gray-700 flex-col justify-center text-justify width: 180px height: auto word-wrap: break-word order-1 pt-8" style={{ maxHeight: '200px', overflowY: 'auto' }}>
       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat .
       </p>
